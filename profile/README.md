@@ -1,4 +1,4 @@
-# Dragon Riders Unite
+# Dragon Riders
 
 **The DragonRuby Game Toolkit Community Resource Center**
 
