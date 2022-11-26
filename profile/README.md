@@ -10,6 +10,6 @@ This GitHub organization contains community resources to help you ship awesome g
 
 Start here:
 
-- [Dragon Riders website](https://www.dragonriders.community)
+- [Dragon Riders community website](https://www.dragonriders.community)
 - [Interactive Showcase](https://dragonridersunite.itch.io/dragon-os)
 - [The Book](https://book.dragonriders.community)
