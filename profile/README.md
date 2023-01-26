@@ -13,3 +13,4 @@ Start here:
 - [Dragon Riders community website](https://www.dragonriders.community)
 - [Interactive Showcase](https://dragonridersunite.itch.io/dragon-os)
 - [The Book](https://book.dragonriders.community)
+- [The Zine](https://dragonridersunite.itch.io/dragonruby-zine-issue-1)
